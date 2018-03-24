@@ -2,7 +2,9 @@
 
 Predict which projects will get funded
 
-#
+# Method
+
+Regularized linear regression
 
 # Files and folders
 
@@ -12,4 +14,4 @@ Predict which projects will get funded
 
 `notes` is a random collection of ideas etc that might be useful.
 
-`html-output` is the jupyter notebook exported. 
+`html-output` is the jupyter notebook exported.
