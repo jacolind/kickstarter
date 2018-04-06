@@ -1,12 +1,16 @@
-# Problem statement
+# Kickstarter
 
 Predict which projects will get funded
 
-# Method
+## Problem statement
+
+Based on historical campaigns, predict which projects will get funded.
+
+## Method
 
 Regularized linear regression
 
-# Files and folders
+## Files and folders
 
 `kickstarter.ipynb` contains the solution.
 
@@ -15,3 +19,7 @@ Regularized linear regression
 `notes` is a random collection of ideas etc that might be useful.
 
 `html-output` is the jupyter notebook exported.
+
+## Status 
+
+I have barely begun working. 
